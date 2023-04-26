@@ -1,3 +1,6 @@
+THIS CODE IS PART OF REDUX TOOLKIT TUTORIAL BY 🔥[JOHN SMILGA](https://github.com/john-smilga)🔥 (ALL INFO BELOW), I JUST POST IT HERE SO IT WOULDN'T LOOK LIKE I DID NOTHING TODAY LOL
+
+
 # Redux Toolkit
 
 #### React Course
